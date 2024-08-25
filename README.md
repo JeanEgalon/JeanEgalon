@@ -1,7 +1,7 @@
 <div align="center">
 <span>Oi, me chamo Jean Egalon!</span>
 <br/>
-<span>Atualmente estou estudando Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe!</a></span>
+<span>Estudei Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe!</a></span>
 <br/>
 <span>Hobbies : Filmes, Séries e Músicas 🎧</span>
 </div>
